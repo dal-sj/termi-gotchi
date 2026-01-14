@@ -1,6 +1,7 @@
 import streamlit as st
 from gotchi import Egg
 
+# 수정 사항 ㅎㅎ
 st.title("Termi-Gotchi")
 
 if 'pet' not in st.session_state:
